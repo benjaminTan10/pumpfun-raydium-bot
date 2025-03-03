@@ -28,8 +28,6 @@ Introducing the **Solana Ultra-Fast New Token Sniper** written in **Rust** 🦀,
 ## Trial Versions
 
 ### **Solana RayPump Sniper (Executioner Trial)**  
-> 🗂️ [solana-rust-raypump-sniper(executioner-trial).zip](https://github.com/user-attachments/files/18876781/solana-rust-raypump-sniper.executioner-trial.zip)
-
 **Strategy Details:**
 - **Entry Trigger:** Monitor user purchases of tokens valued at $1,000; execute a buy order upon detection.
 - **Exit Trigger:** Monitor user sales of tokens valued at $300; execute a sell order upon detection.
