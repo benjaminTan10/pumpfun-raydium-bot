@@ -68,18 +68,9 @@ TOKEN_AMOUNT=0.000001
 - Detect: https://solscan.io/tx/5o7ajnZ9CRf7FBYEvydu8vapJJDWtKCvRFiTUBmbeu2FmmDhAQQy3c9YFFhpTucr2SZcrf2aUsDanEVjYgwN9kBc
 - Bought: https://solscan.io/tx/3vgim3MwJsdtahXqfW2DrzTAWpVQ8EUTed2cjzHuqxSfUpfp72mgzZhiVosWaCUHdqJTDHpQaYh5xN7rkHGmzqWv
 - Dexscreener: https://dexscreener.com/solana/A1zZXCq2DmqwVD4fLDzmgQ3ceY6LQnMBVokejqnHpump
-
----
-## Donate
-
-👉👌 6vT7nrqtbXDWVc8cRUtifxgfDZi19aW7qhcZg2hSepwb
-
+- 
 ---
 ## Support
 
 As the experimental result, the best environment for running this bot is to use `dedicated server located in NY`. 
 For support and further inquiries, please connect via Telegram: 📞 [@blockchainDeveloper_Ben](https://t.me/blockchainDeveloper_Ben).
-
-## Scam Report
-
-https://github.com/Solana-Sniper-Bot-Download/Solana-Raydium-Pumpfun-Sniper-Bot/issues/2
